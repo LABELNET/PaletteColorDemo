@@ -9,7 +9,7 @@
   ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/1.gif)
   ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/2.gif)
   ## JPG
-  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/3.png)
+  ![image{300x300}](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/3.png)
   ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/4.png)
   ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/5.png)
   ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/6.png)

@@ -6,9 +6,15 @@
 
 # Screen Recrode
   ## Gif
-  ![image]{https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/1.gif}
-  ![image]{https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/2.gif}
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/1.gif)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/2.gif)
   ## JPG
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/3.png)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/4.png)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/5.png)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/6.png)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/7.png)
+  ![image](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/8.png)
 
 # Test1- 源码运行观看 (clone simple source code )
   * (1) 打开Android Studio ，新建工程 ，打开新建工程所在的文件夹，在其跟目录下进行clone
@@ -20,8 +26,8 @@
   [Download SimpleApk](https://github.com/LABELNET/PaletteColorDemo/blob/master/Screen/simple.apk)
 
 # Gradle Dependency 使用
-  Don't Gradle Dependency, You can learn from [ here](http://blog.csdn.net/LABLENET/article/details/52340634)
-  [ Android - 一个似神器而非神器之Palette探索与实践](http://blog.csdn.net/LABLENET/article/details/52340634)
+  * Don't Gradle Dependency, You can learn from [ here](http://blog.csdn.net/LABLENET/article/details/52340634)
+  * [ Android - 一个似神器而非神器之Palette探索与实践](http://blog.csdn.net/LABLENET/article/details/52340634)
 
 # Sample Usage
 

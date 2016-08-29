@@ -6,18 +6,14 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.GradientDrawable;
-import android.support.v4.graphics.ColorUtils;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.graphics.Palette;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -96,6 +92,8 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         if(item.getItemId()==R.id.test_palette){
             startActivity(new Intent(MainActivity.this,PatternUtilActivity.class));
+        }else if(item.getItemId()==R.id.test_drawable){
+            startActivity(new Intent(MainActivity.this,DrawableActivity.class));
         }
         return true;
     }

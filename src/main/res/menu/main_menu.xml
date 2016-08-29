@@ -3,8 +3,14 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:title="测试Util"
+        android:title="PaletteUtil"
         android:id="@+id/test_palette"
+        android:showAsAction="always"
+        />
+
+    <item
+        android:title="DrawableUtil"
+        android:id="@+id/test_drawable"
         android:showAsAction="always"
         />
 

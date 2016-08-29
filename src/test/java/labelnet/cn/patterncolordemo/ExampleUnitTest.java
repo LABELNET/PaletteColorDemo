@@ -1,6 +1,11 @@
 package labelnet.cn.patterncolordemo;
 
+import android.graphics.Color;
+import android.support.v4.graphics.ColorUtils;
+
 import org.junit.Test;
+
+import labelnet.cn.patterncolordemo.other.ColorUtil;
 
 import static org.junit.Assert.*;
 
@@ -12,4 +17,10 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+
+
+    @Test
+    public void test_ColorUtil(){
+    }
+
 }
